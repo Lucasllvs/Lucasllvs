@@ -1,13 +1,18 @@
 #### Olá!! Me chamo Lucas 
 ##
 
-<div>
-  <picture>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=lucasllvs&show_icons=true" />
-  
-  </picture>
+<div>
+<a href="https://github.com/lucasllvs/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=lucasllvs&show_icons=true&theme=tokyonight&icon_color=F2CB05" />
+</a>
+<a href="https://github.com/lucasllvs/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasllvs&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=tokyonight" />
+</a>
 </div>
+
+
+
 
 <div style="display; inline_block">
   <img alt="Lucas-HTML" alling="center" height="40" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"/>

@@ -2,10 +2,10 @@
 
 <div>
 <a href="https://github.com/lucasllvs/github-readme-stats">
-  <img height=200  align="center" src="https://github-readme-stats.vercel.app/api?username=lucasllvs&show_icons=true&theme=tokyonight&icon_color=F2CB05" />
+  <img height=200 width="49%"  align="center" src="https://github-readme-stats.vercel.app/api?username=lucasllvs&show_icons=true&theme=tokyonight&icon_color=F2CB05" />
 </a>
 <a href="https://github.com/lucasllvs/convoychat">
-  <img height=200  align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasllvs&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=tokyonight" />
+  <img height=200 width="46%"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasllvs&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=tokyonight" />
 </a>
 </div>
 
